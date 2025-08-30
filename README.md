@@ -1,4 +1,3 @@
-# Parallax-Website-Nature-
 
 # 🌌 Parallax Website
 
